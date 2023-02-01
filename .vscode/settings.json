@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "io.h": "c",
+        "thread.h": "c",
+        "global.h": "c",
+        "tss.h": "c",
+        "global1.h": "c",
+        "memory.h": "c",
+        "list.h": "c",
+        "string.h": "c"
+    }
+}
